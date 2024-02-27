@@ -8,4 +8,5 @@ def main(a, b):
     Returns:
         int: the result.
     '''
-    return 
+    return  ( float(a/b))
+print(main(10,2.5))
